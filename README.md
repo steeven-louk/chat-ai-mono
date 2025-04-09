@@ -13,8 +13,8 @@ chatia-monorepo/
 ## 🚀 Installation
 1. Cloner le dépôt:
 ```
-    git clone https://github.com/ton-utilisateur/chatia-monorepo.git
-    cd chatia-monorepo
+    git clone https://github.com/steeven-louk/chat-ai-mono.git
+    cd chat-ai-mono
 
 ```
 
