@@ -54,7 +54,7 @@ Le backend démarre sur http://localhost:5000
 
 ```
 cd client
-git clone https://github.com/steeven-louk/chat-ai-mono.git
+git clone https://github.com/steeven-louk/chat_ai.git
 ```
 
 ### 🔧 Variables d’environnement (client/.env)
